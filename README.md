@@ -1,2 +1,3 @@
-# strapi_teste
- Teste
+# Strapi com MySQL - Teste
+
+Criação de uma ambiente de teste.
